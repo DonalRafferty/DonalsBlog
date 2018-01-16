@@ -1,0 +1,36 @@
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: The Pesky Forty Minute Stand Up
+date: 2017-10-10 10:32:27 +0100
+tags: [Design Development Creativity]
+class: post-template
+subclass: 'post tag-design-dev-creativity'
+author: donalrafferty
+---
+
+This week we started with the joys of the stand up and just like a really bad stand up, we ended up standing around in a circle with far too many people for far too long. At least the discussion at this stand up was relevant, interesting and entertaining.
+
+## The Symbolic Agile Process
+
+I am familiar with the standup, with slow lanes, with continuous integration but unfortunately I am also knowledgable in these being used as a front to "present an image of symbolic status" {% cite fiction %}. Too many times these elements are attached to a teams process in a hap hazard way just so a team can claim they perform a certain way. They then seep into the culture of the team and quickly become part of the ceremonial and ritualistic acts {% cite fiction %} of a teams production lifecycle. Once they gain this status it seems like they are impossible to change, "it's just the way we work".
+
+Speaking of the way we work an excellent point raised in the book The Soul of a New Machine came from how working outside of your required hours per week without pay became a norm, they called it "signing up" {% cite soulmachine %}, it became embedded in their culture, they questioned it of course but it became just the way to get things done. Throughout my career as a software developer I would have been proud, excited and happy to "sign up", I was happy to go outside the boundaries of the normal work day to show how hard I can work to reach what were improbable goals. It was part of my job. Lately I've been questioning this a lot more. When companies run weeks where they request you work longer hours than normal, when you are told you should work weekends or when you are asked to take part in a fast paced "initiative" do they really lead to anything other than a taped together prototype that's only place in the company is in the bin? I've yet to see any evidence that they lead to anything positive so my attitude is quickly changing.
+
+## The Software Development Lifecycle
+
+The lecture portion of the class took us through the interrelated phases of the software development lifecycle. One of the first and in my opinion most important points raised was how to deal with communication with the customer. Typically there will be an intermediary between the customer and developers/designers, this is bad because it means that communication has the potential to be filter or misinterpreted as it flows between the two most important nodes - the customer and the developers. in addition in larger organisations the intermediary may even have a political agenda and purposely distort the communication for their own gain. A three node structure where the customer, developer and intermediary all have open communication channels was presented and when you think about it makes more sense, the intermediary can protect the developers from most of the customers nonsense communications but at the same time an open channel between developers and customers is vital for correct feedback between both.
+
+Another excellent point raised during the lecture was the fact that most of us will be working on projects that are in the maintenance phase, most of us will work on adding features and fixing bugs to something someone else has built and left behind. When I look back on my career apart from a few green field prototypes this has been mostly true. Within this the switching cost to a customer was mentioned. This is how much effort a user must spend to engage with changes, bug fixes and updates you make during this maintenance phase. Every time you change something there is a switching cost and a user will quickly decide if the cost is too high to continue using your product. The cost is particularly high for products that have far too much scope.
+
+We then discussed the components of time, scope, quality and cost in the SDLC. In each component there is a sweet spot that we should aim for, too little cost for example and you clearly aren't going to build anything substantial enough to have and impact. Too much time to complete something and the project will suffer from analysis paralysis. Too much scope and the project will be needlessly complex and too little quality the projects success is unlikely. These are the elements of understanding that I am weak in and getting an understanding in running a project and how these components affect it will give me the business logic I crave to add to the technical skills I have.
+
+References
+----------
+
+{% bibliography --cited %}
+
+[iona]: https://en.wikipedia.org/wiki/IONA_Technologies
+[iona-case]: https://managingdesignanddevelopment.blogspot.ie/search/label/the%20IONA%20case

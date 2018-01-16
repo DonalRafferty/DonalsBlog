@@ -1,0 +1,40 @@
+---
+layout: post
+current: post
+cover: assets/images/lifecycle.jpg
+navigation: True
+title: They Promise to Build a Bridge, Even Where there is no River.
+date: 2017-10-06 10:32:27 +0100
+tags: [Design Development Creativity]
+class: post-template
+subclass: 'post tag-design-dev-creativity'
+author: donalrafferty
+---
+
+As with last weeks lecture, this week kicked off with an excerpt from the book The Soul of a New Machine {% cite soulmachine %}. This time highlighting the politics within Data General when two competing teams formed within the company. Both teams traded blows in the form of promising unrealistic timelines for completion to management. This meant that the information the teams supplied to management was heavily based on politics and lacking in reality. Managers of the teams would likely have been engaged in political manoeuvres to keep their project funded and in the limelight rather than focusing on the real needs of the company, the team and the potential customers.
+
+In my own experience the phrase "it's all just politics" has frequently been mentioned by my managers. It's something I have tried to stay out of or ignore throughout most of my career but it is becoming increasingly clear that it is something I need to be aware of, understand and be able to deal with for my future career.
+
+## The Lifecycle
+
+The lecture subsequently focused on the concept of the lifecycle. Something that again is very much in my interests, I have worked across 3 companies and a multitude of teams that implemented the lifecycle in many different ways with varying degrees of success. It's something that I enjoy studying and I feel like I make a difference when I join a team that is struggling with their lifecycle processes. However many of the improvements I am able to bring are technically focused as that is my background so learning more about the bigger picture in terms of the lifecycle is something vitally important to me.
+
+I have very much been focused on agile processes and lean time management, cutting out waste in the process has always been a big thing for me and I've been relatively successful at it, managers are generally surprised that a "lowly" coder can have such an impact on changing a teams approach to development. However it was interesting to find that dismissing the likes of the waterfall approach may be something I should reconsider, especially in light of reading Royce's article {% cite waterfall %} last week.
+
+It was put to us that if you ask firms to describe their lifecycle they will say that it fits into a certain methodology when maybe it only kind of fits that methodology or they might even describe their approach as agile when in fact it is much more like the waterfall approach, this resonated with me my experience would add weight to this suggestion. A lot of the time the teams I have worked on would claim to be agile but would in fact be very much following a waterfall model. A lot of the time I felt like this was a projection that the team felt they had to fake in order to give the impression to higher levels of the hierarchy that they are following some sort of standards or guidelines that the business wanted to enforce.
+
+Continuing with the lifecycle the lecture concluded with a "Locating Frameworks, life cycles and Methods" slide that showed us where each one would fit within a company and what bearing that might have, for example an organisation as a whole can put pressure on the framework by insisting that a project follows company guidelines on security, coding standards etc... this is something again that I am vary aware of and impacts my current team greatly. As part of a large multinational our team is subject to strict governance by the organisation as a whole which is turn plays a huge role in restricting the ability to take risk and therefore limits creativity. This in turn also leads to a team that doesn't believe in the product, team members who quickly become demotivated, which in turn leads to high turnover. To compound matters when someone who has built up a lot of company and project knowledge leaves, the managerial teams fail to understand the high cost to the project that this entails.
+
+## Case Based Learning
+
+At the end of the lecture we started some "Case Based Learning". This session employs case driven problem based learning PBL as the teaching method. For this case we started studying [IONA Technolgies][iona]. The task for this week was to uncover an aspect of the case I was unfamiliar with and to go and bridge that gap in my knowledge. The first part of the case study mentioned how IONA used the CORBA standards, this was something I am not familiar with so I decided to look this up and gain a better understanding of how using this standard helped IONA achieve success. It turns out it was a standard that aimed to enable communication that were deployed on different platforms, full name - Common Object Request Broker Architecture. IONA's Orbix product is an implementation of this specification. Taking advantage of the Internet IONA were able to excel at cross platform communication with this product along with first mover advantage. The first part of the [case study][iona-case] finished by describing a relatable scenario of the team in a local pub discussing the "heroic" hot fix that was achieved for a customer by working through the night and patching it at 2am. The voice of the QA dissenting with "The problem shouldn’t have occurred in the first place he complained. It was preventable!". Maybe the lifecycle at IONA was the reason they needed hero's?
+
+**The title of this post is a quote by Nikita Khrushchev.*
+
+References
+----------
+
+{% bibliography --cited %}
+
+[iona]: https://en.wikipedia.org/wiki/IONA_Technologies
+[iona-case]: https://managingdesignanddevelopment.blogspot.ie/search/label/the%20IONA%20case

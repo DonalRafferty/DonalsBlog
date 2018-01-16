@@ -1,0 +1,29 @@
+---
+layout: post
+current: post
+cover: assets/images/legoheader.jpg
+navigation: True
+title: Lego, is there anything it can't do?
+date: 2017-11-19 10:32:27 +0100
+tags: [Design Development Creativity]
+class: post-template
+subclass: 'post tag-design-dev-creativity'
+author: donalrafferty
+---
+
+This weeks post is going to be pretty brief, for two reasons, one the work load has started to put pressure on me, research papers, research proposals, learning logs, video presentations are all building as semester one comes to a close but secondly and most importantly in this (last) weeks class we got to play with Lego!!
+
+## The Building Blocks of Teamwork
+
+The basic premise of the Lego is that it's a creative problem solving exercise. There are lots of different components to the Lego that need to be understood and connected together just to start off with the base. Then you can get creative. The Lego system in the pictures allows us to run a basic loop of actions that we can tell it to perform in sequence. As a team we had to follow the instructions to build the basic driving base of the Lego. Every five minutes or so we had to switch places to mimic a dynamic work environment. Our team performed well as we went through the cycles of each having to perform different parts of the process we set up. For example we had one person reading the instructions ahead of time to inform another person of the upcoming pieces we needed. Then we had a builder actually building the Lego who was helped by a second person aligning the pieces and sharing information from the Lego guide. Then we had to start programming it to "protect" a box, basically to program it to drive around the box in a loop, we initially tried to over engineer the solution by adding sensors but luckily we quickly tested out our assumptions and found them to be incorrect so we could revert back to a simpler approach in time for the test. A lesson in agile right there.
+
+![image-center](https://firebasestorage.googleapis.com/v0/b/donals-blog.appspot.com/o/IMG_20171113_181719.jpg?alt=media&token=7af775eb-6e67-42ab-b318-5944d3a6f71c){: .align-center}
+
+
+## This Weeks Readings
+
+This weeks papers included a light reading on how Spotify managed to scale to a large company but keep themselves agile, many people say that once an organisation becomes a certain size it will lose it's agile culture however Spotify seem to buck this opinion. They have grown but remained agile. The paper itself doesn't give huge detail on how the achieved it but gives interesting insight into different ways they maintain a more agile culture. Most of the ideas are just adapted implementations of agile recommendations. As someone who works in a large enterprise company I will refer back to this article in order to further pick out parts that may help my team become more agile.
+
+We also had a paper that described how an architect worked to keep creativity in his work despite many different scenarios with different actors, the main point from this being that the software they used was accessible by third parties and they were allowed to edit the model in the software, this allowed input from many people that helped solved problems quicker and increase creativity.
+
+This has been a bit of a whirlwind post without much content but I promise to come back and flesh the learnings from the exercise and the two papers out when the pressure and stress of the rest of the work load has subsided!

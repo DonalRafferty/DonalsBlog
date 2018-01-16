@@ -1,0 +1,44 @@
+---
+layout: post
+current: post
+cover: assets/images/submarine.jpeg
+navigation: True
+title: Fire Everything!!
+date: 2017-11-03 10:32:27 +0100
+tags: [Design Development Creativity]
+class: post-template
+subclass: 'post tag-design-dev-creativity'
+author: donalrafferty
+---
+
+This week we played the classic board game BattleShip. Or at least a variant of it. Why? It was a metaphor for the power of getting feedback sooner rather than later. For example if you want to sink the ships and have forty shots to do so, if you fire them all up front do you think you will have more chance of sinking the ships than if you fire five at a time and see what you've hit after five shots?
+
+## The Power of Feedback
+
+"No plan of operations extends with certainty beyond the first encounter with the enemy’s main strength" – Generalfeldmarschall Helmuth von Moltke [You can play the BattleShip game we played [here][battleship]]
+
+When we are trying to plan ahead we think we can figure it out by being intuitive, by second guessing what is needed, by looking to our own genius to set out what is needed to make our products and services a success. But if we were asked to predict the future most of us would say that it's impossible to predict the future. Yet with product planning this is what many of us attempt to do and some who say it's impossible to predict the future may be the same people who declare they are great at setting out future plans for products.
+
+When you're planning the needs of a product you're trying to predict what is required based on a number of possible outcomes, variables and variables ([more here][sunk]). Customer's needs and opinions change, a new competitor may enter the market with an interesting take on the product, users may start using the product in a completely different manner than anticipated. If you've already launched everything you have then you've nothing left to recover from what you've missed.
+
+If you take an iterative approach where you put in place limited plans in a small time frame, in more manageable chunks, then you can quickly evaluate and test the assumptions you had put in place and built upon. Do your users really actually need functionality X or are they using functionality Y in the way you assumed? It's much better to know the answers to these kind of questions as soon as possible. Nobody wants to spend months designing and developing functionality that it turns out no one wants. Instead build just what is needed to prove your assumptions, if they are valid great, that means you're going in the right direction. If not then also great, you can cut the functionality out of the product and focus on adding value to it instead.
+
+I've been reading a lot about the Lean Startup movement and it's very interesting the parallels that it has with this way of thinking. If you have ideas, validate them as quickly as you can with as little resources required for this validation, make sure to analyse how successful they are and then you can make an informed decision. There's no reason this approach has to be limited to startups or green field projects, even in non 1.0 projects we should be quickly validating our assumptions to avoid issues like piecemeal growth.
+
+## The Power of Agile
+
+We also discussed three articles that cover the agile culture. Kent Beck's Extreme Programming was a set of practices that suggested taking the conventional way of developing software and shrunk it with the shrinking machine from Honey I Shrunk the Kids! Then with this bite size process just repeat it quickly. A great way to get feedback fast! Many people found this approach to be too much of a change and this is where Scrum came in.
+
+Scrum added a set of management guidelines to the agile practices proposed by Beck. But even still from my own experience I think just like the misunderstanding of Royce's "Waterfall" model that many teams, managers and organisations only pay the core concepts of agile lip service. May use the tools, speak the lingo and present a facade of being agile but at the core they fall back to waterfall style methods of planning, development and deployment. Not a great way to get feedback fast!
+
+Another of the articles discussed how agile itself has gained almost cult like status among some advocates and organisations. Many people feed off the agile buzz, they here high level thoughts, opinions and guides about it at conferences and buy into it as if it was the saviour of the process. Yet they don't understand the core values underpinning agile nor do they even understand the problems it is trying to fix, it's just the solution to everything and that's it. I must admit to at once thinking like this, a colleague once calling me a "lemming". So it was interesting to read an article detailing how prevalent this is in the agile community. It is important to understand agile is a set of practices to adapt to any individual situation, it may work for most but it does not work for all.
+
+The last article discussed how Microsoft apply extra engineering practices to their Scrum process, backing up the idea that agile is just a set of practices and it is to be adapted to suit your own situation. It is important to understand that each organisation should best see how it might benefit them. For Microsoft they analysed three teams using Scrum for the first time and found that along with the practices there was an improvement in delivery over old processes. Interestingly one of the teams were limited in their test coverage which highlight a higher defect rate. This shows the importance of tests, a core component of Extreme Programming, something I feel a lot of teams neglect in order to "move faster". It shows how discipline is important in the agile process.
+
+<!-- References
+----------
+
+{% bibliography --cited %} -->
+
+[battleship]: http://zilverline.github.io/battleship/public/index.html
+[sunk]: http://tastycupcakes.org/2012/02/you-sunk-my-methodology/

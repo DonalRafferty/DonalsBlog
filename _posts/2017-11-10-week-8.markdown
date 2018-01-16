@@ -1,0 +1,50 @@
+---
+layout: post
+current: post
+cover: assets/images/drawing.jpg
+navigation: True
+title: It's OK to Draw Outside the Lines
+date: 2017-11-10 10:32:27 +0100
+tags: [Design Development Creativity]
+class: post-template
+subclass: 'post tag-design-dev-creativity'
+author: donalrafferty
+---
+
+We got to draw this week! My artistic nature finally gets to show how bad it actually is. We started on paper first, drawing with the humble technology of a pen. Then we moved on to using [Balsamiq][balsamiq], a wireframing tool that lets us create wireframes as if they were sketches. We got to compare the process of sketching on paper and wireframing using a digital tool. What were the benefits or each, the drawbacks, did they compliment each other?
+
+## The Power of Paper
+
+First up was paper and the task? To design a search website that contains no text whatsoever, no text input and no text results. So the idea was to split up a page of paper and draw each part of the flow, like in comic books how the scene flows from one box to another. After about 10 minutes here is what I ended up with:
+
+![image-center](https://firebasestorage.googleapis.com/v0/b/donals-blog.appspot.com/o/Scan.jpeg?alt=media&token=27ef21f9-36de-4202-99be-b763ba09ddd3){: .align-center}
+
+The basic premise is that imagery guides the user to understand how to commence the search through voice input. Once the user speaks what they want to search the results are retrieved and they are displayed in a image heavy format, remember there's no text here so the images that are larger are most relevant, smaller images are related but likely to be less relevant. Further to this there are controls for the user to request some audio to be played which will describe each image on screen with speech. Once a user makes a selection on the results page they will be brought to a page that uses video and/or audio to provide the information the user was searching for.
+
+The benefits of this paper based approach in my opinion are that it enables creativity to flow in a much more natural manner, as a technology pen and paper is invisible to us, we just use it so we can naturally focus on letting our ideas spawn on the paper in front of us. There are no boundaries set in place, you can draw what you like on the paper, it can take any form, any shape any colour. As a starting point I think it's hard to beat drawing on paper.
+
+## The Power of Digital
+
+Next we used the Balsamiq online tool to create a low fidelity wireframe. Balsamiq is excellent in that it mimics the style of a sketch in digital form, all of it's wireframing elements look like they've been drawn on paper with a pencil. After another 10 minutes or so here is what I came up with:
+
+![image-center](https://firebasestorage.googleapis.com/v0/b/donals-blog.appspot.com/o/vsearch.png?alt=media&token=0bc5543f-1d34-40a7-b01d-e4d5c8ec8308){: .align-center}
+
+The premise is the same, it comes from my initial idea on paper. However as you can see in just 10 minutes and even with a low fidelity tool like Balsamiq the idea starts to become more focused. The fact that the tool has a limited set up elements we can use and that it's something we have to learn how to build wireframes with enforces such focus. Where the paper is almost limitless the digital tool enforces us with relatively strict boundaries. It's almost impossible to come up with something completely new using such a digital tool, it will almost always be a composite of generally accepted UI components. While this seems negative I actually think it's a good step to take from the paper based design. It allows the design to take a more recognisable design without it looking finished so it can be show to a bigger audience to get their feedback without them mistaking it for a more finished product. In addition it helps with keeping creativity alive because it is low fidelity.
+
+## The Danger of High Fidelity Mockups
+
+Just a personal note on my own thoughts about high fidelity wireframing tools such as Invision, I think they have their place in the design process for sure, however I feel like it should always be either towards the end or else in a situation where the design of a product is tightly controlled and there is little need for creativity. When looking for creative solutions to problems I think showing high fidelity mockups or prototypes too early can stifle what people, including customers, imagine can be done with the design. It also can skew expectations where a design that looks impressive in such a tool may not be possible or take too much time to implement in the real product. I am an advocate of using low fidelity wireframing tools such a Balsamiq as much as possible and only moving to high fidelity tools when you really do need that pixel perfect design for the developers.
+
+## This Weeks Readings
+
+This week we also had some interesting readings around creative organisations, one reading described what is required within an organisation to allow creativity to grow, it argues that creativity comes from groups rather than individual geniuses. That in order to foster this group creativity an organisation must foster help giving, help seeking, reflective reframing and reinforcing. Enabling people to get help and encouraging people to help others is important. But what I found interesting the most was the concept of reflective reframing. This is where groups of people from different backgrounds get together to try to solve a problem, the fact they have different backgrounds means they all bring different skills and most importantly different past experiences to the creative solution to a problem. This is not something I have really experienced at all in my career and I wish it was part of the process as I feel not only would it help with creating imaginative solutions to problems but I feel it was also allow me to expand my own way of thinking also. The act of reinforcing is basically making sure that the other three are a part of an organisation's culture and are fostered in some way.
+
+The second reading was about the creativity of Pixar, an interesting story with the idea that the organisation wasn't able to work with two different levels of quality. There was the concept of the top team from the creators of Toy Story, then the concept of a lesser team responsible for the creation of Toy Story 2 which was meant to be a straight to video lower quality production. However Pixar found that having some people work on high quality and some work on low quality led to severe problems in the organisation. The culture of the company could not sustain two differing approaches and hence Toy Story 2 became a high quality product as have all Pixar products since. It's interesting to know that a culture of mediocrity, even in one team in an organisation, can have such an impact.
+
+<!-- References
+----------
+
+{% bibliography --cited %} -->
+
+[balsamiq]: https://balsamiq.com/
+[sunk]: http://tastycupcakes.org/2012/02/you-sunk-my-methodology/

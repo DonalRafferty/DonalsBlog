@@ -1,0 +1,51 @@
+---
+layout: post
+current: post
+cover: assets/images/poker.jpg
+navigation: True
+title: Calling Your Bluff
+date: 2017-10-24 10:32:27 +0100
+tags: [Design Development Creativity]
+class: post-template
+subclass: 'post tag-design-dev-creativity'
+author: donalrafferty
+---
+
+Planning poker took up the first section of this weeks lecture and I thoroughly enjoyed it, planning poker is something we had used in my previous team and it worked incredibly well. It's not something we do in the new team which is a real shame because it has many many benefits.
+
+## Drop the Anchors!
+
+The main goal of planning poker is to avoid [anchoring bias][anchors] when trying to estimate how long some piece of functionality might take to implement. Anchoring bias is when the first person states something, say an estimate of 5 days then everyone else will make their estimate close to this because of anchoring bias. [Planning poker][poker] helps avoid this by making everyone estimate on their own, each person chooses a card without showing the others and everyones card get turned over at the same time. What the value on the cards mean in terms of estimation will have been agreed by everyone. The two with the most extreme values then get to explain why they feel that way and through repeating the process the team will come to a consensus.
+
+I found it to be great at not only coming to accurate estimations but it also helped disseminate knowledge about the functionality and even about the current state of the product itself. For example if I voted high with my estimate and another team member voted low, I may say I voted high because I thought it would be a difficult story to integrate but my team member may explain that they have already done something similar before and that we can reuse that, something I wasn't aware of. Equally I could vote low only to find out that I misunderstood the scope of the functionality.
+
+Our planning poker sessions were excellent at making sure everyone was on the right page and they are something I will raise with my manager as a good idea to reintegrate to the new team.
+
+## Contact light.
+
+We then discussed an article that covered how NASA write software that is almost entirely bug free {% cite rightstuff %}. One of the really interesting points in the article was that the job was almost entirely 9 to 5, there are only a few exceptions where someone may have to work late. They don't do hackathons, they don't do innovation drives, they don't do week long stints of 8 to 8, why not? Well the article doesn't cover that but from experience it's because these types of events or bug fests, the greatest exterminators on earth wouldn't be able to handle the bugs at a hackathon.
+
+They also in-still a culture of being grown-up's that write grown-up software, which is against the grain of the vision most modern tech houses shoot for, if you look at the likes of HubSpot or Google or Facebook they seem to be instilling a culture of sexy fast paced on the edge coding that rebukes the idea of a stable system or process. This reminds me to be wary of places that seem to offer the have it all culture. In my previous job I was in charge of changing the culture among a small group that consisted of about 10 teams of engineers, I looked up HubSpots culture deck which was getting a lot of positive feedback at the time and began to use it as a template. However when I started watching some of their Youtube videos I started to question if it was a fit for our needs. Some further research led me to [Dan Lyons][lyons] who had written about his negative experience in HubSpot and a lot of what he complained about made sense. Ever since then I've been much more aware of how companies cultures may not be as beneficial to me as they should be.
+
+The main point of interest in the article for me though was the focus on the process, the process takes the hit when something goes wrong, the process is where people can be creative, the process finds errors in the software, the process finds errors in itself. This is something that I truly believe in, as my experience in software has grown I have begun to understand that being good at coding or having good coders only gets you so far. If you have "hero coders" they will keep saving you from your process but this isn't sustainable. You need to put effort and resources into your process and it will pay you back ten fold. It's something I look to try to influence as much as possible but have always struggled with knowledge and confidence to present as a solution. I feel as I progress in this course I am increasing both and look to have the skills and knowledge to in future define, implement and adapt processes that lead to success.
+
+## A bit about CMMI
+
+We covered a little bit about the Capability Maturity Model Integration ([CMMI][cmmi]) and I found it interesting that banks use it in their IT teams, being in the financial sector it's something I wasn't aware that banks implemented. I am kind of torn on it's benefits, on the one hand it ensures high quality but it takes a lot of effort and discipline to achieve that and maybe sacrifices some agility. In a sense it fits the needs of a bank but maybe not a wider range of IT companies. Which is kind of a shame, it's something akin to how I would like to see processes become analysed and checked to see if they are fundamentally helping or hindering a company, maybe there is something else out there, if not maybe I can come up with something.
+
+## The IONA Case personal blunder
+
+We finished by debriefing among ourselves on the IONA case and just a personal side note here to remind myself that when I am asked about something I am uncertain about it's OK to declare that I only have a vague notion of it and that given there is an expert with personal experience right there, it's best to ask them. I sometimes let my anxiety and introvert nature trip me up, something I am working on but need to be more mindful of in future.
+
+On the case itself as a group we got into an interesting discussion of how the different people around the table treated work, some switched entirely off outside of work, some even brought work with them on holidays. Everyone defended there own way of thinking with very valid reasoning, it's interesting how we all work differently a testament to how complex trying to run an organisation dependent on humans must be.
+
+
+References
+----------
+
+{% bibliography --cited %}
+
+[anchors]: https://en.wikipedia.org/wiki/Anchoring
+[poker]: https://en.wikipedia.org/wiki/Planning_poker
+[lyons]: https://venturebeat.com/2016/03/27/the-book-hubspot-never-wanted-you-to-read
+[cmmi]: https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
