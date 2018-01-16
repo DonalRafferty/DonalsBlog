@@ -1,0 +1,9 @@
+dependencies:
+  post:
+    - bundle exec jekyll build
+
+deployment:
+  prod:
+    branch: master
+    commands:
+      - firebase deploy --token=$FIREBASE_TOKEN --non-interactive
