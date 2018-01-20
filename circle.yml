@@ -3,6 +3,7 @@ machine:
     version: 8.9.4
 dependencies:
   post:
+    - bundle install
     - bundle exec jekyll build
 
 deployment:
