@@ -5,4 +5,5 @@ gem "unicode"
 gem "unicode_utils"
 gem "jekyll-paginate"
 gem "jekyll-feed"
+gem 'html-proofer'
 gem "jekyll-scholar"
