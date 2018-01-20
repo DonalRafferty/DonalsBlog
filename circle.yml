@@ -1,6 +1,8 @@
 machine:
   node:
     version: 8.9.4
+  ruby:
+    version: 2.5.0
 dependencies:
   post:
     - bundle exec jekyll build
