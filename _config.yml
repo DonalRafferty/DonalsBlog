@@ -9,7 +9,7 @@ baseurl: /
 
 # Website info
 title: Donal Rafferty
-description: Innovative, dedicated & customer focused engineer, expert in mobile & web development. Currently undertaking a Masters of business in UCD Michael Smurfit, with a view to leading innovative technical teams.
+description: Imagination will often carry us to worlds that never were. But without it we go nowhere.
 cover: assets/images/blog-cover.jpg
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
@@ -88,6 +88,7 @@ exclude:
   - gulpfile.js
   - package.json
   - script.py
+  - node_modules
 
 scholar:
   style: apa
