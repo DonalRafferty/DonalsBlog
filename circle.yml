@@ -5,11 +5,11 @@ machine:
     version: 2.5.0
 dependencies:
   post:
-    - bundle exec jekyll build
+    - bundle exec jekyll JEKYLL_ENV=production build
 
 test:
   post:
-    - bundle exec htmlproofer ./_site --check-html --disable-external
+    - bundle exec htmlproofer --assume-extension ./_site
 
 deployment:
   prod:
