@@ -9,7 +9,7 @@ dependencies:
 
 test:
   post:
-    - bundle exec htmlproofer --assume-extension ./_site --file-ignore /node_modules/
+    - bundle exec htmlproofer --assume-extension ./_site --file-ignore /node_modules/ --disable-external
 
 deployment:
   prod:
