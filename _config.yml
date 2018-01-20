@@ -39,7 +39,8 @@ disqus_shortname: donalrafferty # replace with your disqus username
 # Tags' info in `_data/tags_info.yml`
 
 # gems and other configs
-plugins: [jekyll-paginate, jekyll-feed, 'jekyll/scholar']
+url: "https://blog.donalrafferty.com"
+plugins: [jekyll-paginate, jekyll-feed, 'jekyll/scholar', jekyll-sitemap]
 exclude: [vendor]
 
 feed:
