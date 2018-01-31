@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/evil.jpeg
 navigation: True
-title: Is outsourcing evil?
+title: Is Outsourcing Evil?
 date: 2018-01-24 10:32:27 +0100
 tags: [Outsourcing & Offshoring]
 class: post-template
