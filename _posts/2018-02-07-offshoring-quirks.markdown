@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/client.jpg
 navigation: True
-title: Outsourcing quirks, client & supplier capabilities
+title: Outsourcing Quirks, Client & Supplier Capabilities
 date: 2018-02-07 10:32:27 +0100
 tags: [Outsourcing & Offshoring]
 class: post-template
@@ -25,10 +25,10 @@ The [follow the sun][sun] approach to outsourcing/offshoring was also mentioned.
 
 We rounded out the class going through the 12 supplier capabilities that need to be assessed when choosing an outsourcing supplier and the 9 capabilities a client should have. I'm not going to go through them but one of the most interesting things that resonated with me is the importance of ensuring that the core of your business retains skills and knowledge in the areas that you are outsourcing. Without retaining these skills you become completely reliant on third parties where you can't even assess the quality of the work you are paying for and you are essentially just a consumer buying a product or service and no longer really outsourcing. Finally another interesting point raised was that while it might seem like non core areas or areas of your business that are easily repeated are good for outsourcing always be willing to turn this on it's head and question whether something that doesn't seem like a core capability might actually be something too important to the company to outsource.
 
-References
+<!-- References
 ----------
 
-{% bibliography --cited %}
+{% bibliography --cited %} -->
 
 [crowdsourcing]: https://dailycrowdsource.com/training/crowdsourcing/what-is-crowdsourcing
 [sun]: https://en.wikipedia.org/wiki/Follow-the-sun
