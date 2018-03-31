@@ -25,11 +25,3 @@ A couple of great quotes ended this weeks lecture:
 
 * "Someone had to spend a hundred million to put that knowledge in my head. It didn’t come free."
 * "Take away the people and organisations are nothing"
-
-<!-- References
-----------
-
-{% bibliography --cited %} -->
-
-[crowdsourcing]: https://dailycrowdsource.com/training/crowdsourcing/what-is-crowdsourcing
-[sun]: https://en.wikipedia.org/wiki/Follow-the-sun

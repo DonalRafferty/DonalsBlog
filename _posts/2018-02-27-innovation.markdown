@@ -22,11 +22,3 @@ The question "What is outsourcing?" then dominated much of the class. With the l
 Ethical issues within sourcing include, capital, language, staff turnover, access to resources, conflict. It's important as leaders we understand how to manage these in a sustainable and eco friendly manner. Just because someone else is doing a job for us doesn't mean we can forget about the consequences their decisions and ways of working cause. For example, if we are sourcing knowledge or business process outsourcing we should ensure the lives of those performing these jobs are looked after properly and the work impacts them positively. A video we viewed in class a few weeks ago showed a sourcing company telling their employees not to go be going home at 6pm. That attitude is not sustainable, efficient or in anyway helpful for long term goals of any business. Likewise if we are sourcing minerals or components for our offices, we need to ensure that we are not causing e-waste. Out of sight, out of mind is not good enough.
 
 Don't use sourcing as a way to hide problems, or shift them onto others, we are better than that, we must be better than that.
-
-<!-- References
-----------
-
-{% bibliography --cited %} -->
-
-[crowdsourcing]: https://dailycrowdsource.com/training/crowdsourcing/what-is-crowdsourcing
-[sun]: https://en.wikipedia.org/wiki/Follow-the-sun

@@ -30,11 +30,3 @@ Some more interesting topics we then went on to discuss:
   - Relies heavily on direct interpersonal communication, despite not being face to face
 
 Social / knowledge management is hidden, can’t measure, things we want and need to share but can’t measure.
-
-<!-- References
-----------
-
-{% bibliography --cited %} -->
-
-[crowdsourcing]: https://dailycrowdsource.com/training/crowdsourcing/what-is-crowdsourcing
-[sun]: https://en.wikipedia.org/wiki/Follow-the-sun
