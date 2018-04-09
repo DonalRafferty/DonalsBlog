@@ -4,7 +4,7 @@ current: post
 cover: assets/images/cinema.jpeg
 navigation: True
 title: Presentation Matters
-date: 2018-02-27 10:32:27 +0100
+date: 2018-03-31 10:32:27 +0100
 tags: [Outsourcing & Offshoring]
 class: post-template
 subclass: 'post tag-outsourcing-&-offshoring'

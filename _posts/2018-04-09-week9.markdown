@@ -1,0 +1,39 @@
+---
+layout: post
+current: post
+cover: assets/images/egg.jpeg
+navigation: True
+title: Too Polite? The Power of Sense Breaking
+date: 2018-04-09 10:32:27 +0100
+tags: [Outsourcing & Offshoring]
+class: post-template
+subclass: 'post tag-outsourcing-&-offshoring'
+author: donalrafferty
+---
+
+This week we focused on another case study and quite an interesting paper that promotes the idea of highlighting weaknesses in your colleagues in order to help them (and yourself) improve their knowledge.
+
+First up, we looked at a [case study][core] involving internal offshoring of a project within what would appear to be a large multinational. An interesting part of the study is the fact that they had to pitch their idea within the company to get people on board for its development. With a background in large global enterprises, I am familiar with having to take on work that "the business" decides is worthwhile building, but I've never came across the idea of pitching internally to get a team together. In essence this way you only get who was free at the time of pitching, rather than seeking out the best people for the job.
+
+We were asked to identify problems in the case and I identified the following:
+
+* Formal project planning
+* 3 customers with completely different needs
+* Changing needs throughout not taken into account
+* Seems to be only video communication, no on site meetings put in place
+* Team burnout due to heavy workloads
+* Part time nature of 50% ers
+* Lack of communication between teams led to problems integrating
+
+While formal project planning isn't a bad thing, in the context I think some form of agility was required to better understand the changing requirements. Indeed, this links in with having 3 customers, all telling you what they need, even if they didn't know what they really needed. We later found that they scaled back and focussed on 1 core customer to get the project back on track. In relation to the paper we read last week I think the overuse on video communication, that was actually of poor quality, was hampering things. As with the paper some on site meetings would have helped with knowledge transfer {% cite rottman08 %}. Finally the idea of someone giving 50% of them time to a project was a bad idea as it quite naturally plays second fiddle to their main job and as such this affects quality of output.
+
+This weeks paper was very interesting, it offered a an idea that stood out amongst the paper, that by highlighting issues with the way people approach things, the knowledge gaps they have, and where they lack skills, one can improve communication and knowledge transfer {% cite vlaar %}. The authors called this "sense breaking". And, it is interesting when you think about it, if you can help others identify weaknesses in a manner which does not demean them, but instead, empowers them to address that weakness, then you a showing leadership and improving that persons skills and future prospects. In terms of offshoring though this becomes a mine field, because different cultures take criticism in different ways, a leader needs to be aware of this and able to understand the multitude of backgrounds and attitudes to be found in a global team.
+
+The paper offers an interesting insight, but it must be noted its findings come from only 18 interviews and one company. In the end our lecturer posed an interesting question, given the makeup of this case study was heavily male, if it was reversed and was heavily female, would the same issues found in the paper exist?
+
+References
+----------
+
+{% bibliography --cited %}
+
+[core]: https://managingglobalsourcing.blogspot.ie/2011/01/managing-global-local.html
