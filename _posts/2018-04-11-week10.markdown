@@ -1,0 +1,42 @@
+---
+layout: post
+current: post
+cover: assets/images/spinner.jpeg
+navigation: True
+title: The Need to Understand the Impact of Anxiety
+date: 2018-04-09 10:32:27 +0100
+tags: [Outsourcing & Offshoring]
+class: post-template
+subclass: 'post tag-outsourcing-&-offshoring'
+author: donalrafferty
+---
+
+This week the structure remained the same, we focused on another case study, this time about a green field project by an Irish company in China, and we discussed a paper that highlights the important role anxiety plays in offshoring relationships.
+
+First up, we looked at the paper looking at anxiety and the emotional role trusts plays in dealing with it in a social context such as an outsourcing relationship {% cite kelly08 %}. The paper offers an analysis that highlights how anxiety can spread through a country and without a remedy, could be a project, a teams, or even a companies downfall.
+
+It digs deep into the social side of the relationship and takes a rare look at the more intimate and less tangible side of such a relationship and how it plays out. Over time this showed how the initial trust built in the early stages, what the authors call "Courtship", was responsible for helping both sides get through tougher times later in the timeline.
+
+It's uncovering of the importance of these social relationships and how they "ebb and flow", links closely to my one experience, not one of sourcing, but one of working with a large team where the relationships between different team members, the trust they build, the anxiety they cause, have a large and visible impact on how the team deals with issues. It puts on paper in a meaningful manner, the daily habits and tasks we put to work to get us through the social interactions of a working day.
+
+One interesting key point to raise from the paper was the amplification of attentiveness that the Indian company lavished on the Irish company, like a good butler, they addressed the needs of the client quite well. On the flip side, maybe they just knew how to charm a small Irish company?
+
+> "we draw attention to the, often invisible, ‘relationship work’ that is required to develop and sustain the crucial social infrastructure that underpins project relationships, lending them an important robustness."
+
+We again had to read, prepare for and discuss a [case study][core]. This one very much focused on the differences in culture. In this case, the Irish and Chinese cultures. One side we had the Irish side, who expected to be able to bring their way of doing things to China, and for the Chinese workforce to accept them and get on board. However, the Chinese side view the ideals of agile as childish, as western play acting and not getting down to business. Equally in Chinese culture, we are told that getting someone to admit to failure is difficult, and criticising someone is a almost a mortal sin.
+
+It highlights how it's important not to try to impose your ways on others, instead we should view corporate culture as being malleable enough to adopt to the national identity of the context it is in. But also reflect the companies values at the same time.
+
+With this in mind we took a look at Geert Hofstede's work on the difference between people at a country level. Here is his [website][geert]. And here is his consulting firm's [website][consult], in this one you can select some countries to compare to. While it is interesting, it is only really a vague indicator, and as you would expect, many people within a country do not fit into the descriptions. Equally, as our lecturer puts it [here][allen], "how should I modify my behaviour towards a Bulgarian who has lived in Sweden for 4 years, and Ireland for 6 years?".
+
+Overall, it is important to understand the cultural norms in a company, and make sure they are malleable enough to take count for national cultures within context.
+
+References
+----------
+
+{% bibliography --cited %}
+
+[core]: https://managingglobalsourcing.blogspot.ie/2011/01/celtic-tiger-chinese-dragon.html
+[geert]: https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/
+[consult]: https://www.hofstede-insights.com/country-comparison/china,ireland/
+[allen]: https://managingglobalsourcing.blogspot.ie/2012/03/what-is-culture.html"
